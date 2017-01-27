@@ -8,10 +8,38 @@ lot of love :grin:
   - Custom animations for each interactable Sprite
   - Unique behaviors for each enemy
   - Fully WebGL supported (performance-minded code written in a single thread)
-  - Hosted live [AWS]
+  - Hosted live on [AWS] <= Try it out!
   
   
   [AWS]:<http://spacekapto.s3-website-us-west-2.amazonaws.com>
   
+  #Screenshots
   
-  ![alt tag]()
+  **Main Menu:**
+  
+  ![alt tag](https://github.com/laviathor/Spacekapto/blob/master/screenshots/menu_screen.jpeg)
+  
+  
+  **Help Menu:**
+  
+  ![alt tag](https://github.com/laviathor/Spacekapto/blob/master/screenshots/help_screen.jpeg)
+  
+  
+  **Leaderboard Menu:**
+  
+  ![alt tag](https://github.com/laviathor/Spacekapto/blob/master/screenshots/leaderboard_screen.jpeg)
+  
+  
+  **Gameplay:**
+  
+  ![alt tag](https://github.com/laviathor/Spacekapto/blob/master/screenshots/gameplay_screen.jpeg)
+  
+  ![alt tag](https://github.com/laviathor/Spacekapto/blob/master/screenshots/boss_screenshot.jpeg)
+   
+   
+  **Development**
+  
+  ![alt tag](https://github.com/laviathor/Spacekapto/blob/master/screenshots/editor_screenshot.jpeg)
+   
+  ![alt tag](https://github.com/laviathor/Spacekapto/blob/master/screenshots/code_screenshot.jpeg)
+    
