@@ -3,7 +3,7 @@
 lot of love :grin:
 
 #Technical Highlights
-  - Made entirely with the Unity platform
+  - Made with the Unity 
   - Remote MongoDB leaderboard hosted on Kinvey
   - Custom animations for each interactable Sprite
   - Unique behaviors for each enemy
